@@ -1,7 +1,6 @@
 # Ex21 – Representation of Graph
 
-## DATE:
-31-03-2025
+## DATE: 31-03-2025
 
 ---
 

@@ -1,7 +1,6 @@
 # Ex22 – Breadth First Graph
 
-## DATE:
-01-04-2025
+## DATE: 01-04-2025
 
 ---
 
